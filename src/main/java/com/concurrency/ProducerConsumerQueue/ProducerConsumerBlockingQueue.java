@@ -1,4 +1,4 @@
-package com.concurrency.ProducerConsumer;
+package com.concurrency.ProducerConsumerQueue;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.Callable;
